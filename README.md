@@ -110,15 +110,15 @@ const developer = {
 ## ⏱️ Tiempo de Codificación
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TU_USUARIO&theme=radical" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsoon77&theme=radical" alt="Wakatime Stats" />
 </div>
 
 <!-- Projects Section with Animations -->
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto1&theme=radical" />
+  <a href="https://github.com/TU_USUARIO/proyecto1](https://github.com/wilsoon77/FERRETERIA-FINAL-PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=proyecto1&theme=radical" />
   </a>
   <a href="https://github.com/TU_USUARIO/proyecto2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto2&theme=radical" />
@@ -149,7 +149,7 @@ const developer = {
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=wilsoon77&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
