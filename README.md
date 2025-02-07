@@ -1,36 +1,55 @@
 <!-- Header Banner -->
 <div align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1600&h=400&q=80" alt="Developer Banner" width="100%"/>
+  
+  <!-- Animated Text - Simple but effective -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=¡Hola!+👋+Soy+%5BTu+Nombre%5D;Full+Stack+Developer;Creador+de+Soluciones" alt="Typing SVG" />
+  </h1>
 </div>
 
-<!-- Animated Title -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=¡Hola!+👋;Soy+[Tu+Nombre];Full+Stack+Developer;Creando+el+Futuro+Digital" alt="Typing SVG" />
+<!-- Introduction -->
+<h3 align="center">Transformando ideas en código | Creando el futuro digital</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Full Stack Developer apasionado por crear soluciones innovadoras
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+  <a href="https://twitter.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://TU_USUARIO.dev">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <!-- About Me Section -->
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en **[Proyecto Actual/Empresa]**
-- 🌱 Siempre aprendiendo **nuevas tecnologías y mejores prácticas**
-- 👯 Busco colaborar en **proyectos innovadores y desafiantes**
-- 💬 Pregúntame sobre **desarrollo web, arquitectura de software y mejores prácticas**
-- 📫 Contáctame: **tu@email.com**
-- ⚡ Fun fact: **[Un dato interesante sobre ti]**
+```typescript
+const developer = {
+  nombre: "[Tu Nombre]",
+  rol: "Full Stack Developer",
+  ubicacion: "[Tu Ciudad, País]",
+  experiencia: "X años",
+  pasiones: ["Desarrollo Web", "Arquitectura de Software", "UI/UX", "Open Source"],
+  aprendiendo: ["Cloud Native", "DevOps", "Arquitectura Limpia"],
+  objetivos2024: [
+    "Contribuir a más proyectos open source",
+    "Especializarme en arquitecturas cloud",
+    "Compartir conocimiento a través de blog posts"
+  ]
+};
+```
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
+- 🔭 Actualmente trabajo en **[Proyecto Actual/Empresa]** desarrollando soluciones innovadoras
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías para crear mejores soluciones
+- 👯 Busco colaborar en proyectos que desafíen los límites de la tecnología
+- 💡 Me apasiona crear código limpio y escalable que resuelva problemas reales
+- 📝 Escribo regularmente artículos sobre desarrollo en [tu-blog.dev]
+- 💬 Pregúntame sobre **arquitectura de software, patrones de diseño y mejores prácticas**
+- 📫 Contáctame en **tu@email.com**
+- ⚡ Fun fact: [Algo interesante sobre ti, por ejemplo: "Toco la guitarra mientras debugeo"]
 <!-- Tech Stack Section -->
 ## 🛠️ Stack Tecnológico
 
