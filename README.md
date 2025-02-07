@@ -61,6 +61,16 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!-- Main Skills -->
+<h3>Desarrollo Web</h3>
+<p>
+  <img src="https://img.shields.io/badge/Frontend-★★★★★-FF69B4?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Backend-★★★★☆-4CAF50?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/DevOps-★★★☆☆-2196F3?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/UI/UX-★★★★☆-9C27B0?style=flat-square&labelColor=black" />
+</p>
+
+
 <!-- GitHub Stats with Animations -->
 ## 📊 Estadísticas de GitHub
 
