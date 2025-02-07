@@ -90,6 +90,24 @@ const developer = {
 </p>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilsoon77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsoon77&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoon77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <!-- Wakatime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsoon77_WAKATIME&theme=radical&hide_border=true" alt="Wakatime Stats" />
+</div>
+
+<!-- Weekly development breakdown -->
+<div align="center">
+  <img src="https://wakatime.com/share/@wilsoon77_WAKATIME/d6dcb7f2-c1d4-4292-a5e6-1634104f9df3.svg" height="400" alt="Weekly development breakdown" />
+</div>
+
+
+
 <!-- GitHub Stats with Animations -->
 ## 📊 Estadísticas de GitHub
 
