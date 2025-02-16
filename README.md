@@ -4,12 +4,12 @@
   
   <!-- Animated Text - Simple but effective -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=¡Hola!+👋+Soy+%5BWilson+Coc%5D;Desarrollador+WEB;Estudiante+Ingenieria." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=¡Hola!+👋+Soy+%5BWilson+Coc%5D;Desarrollador+WEB+💻;Estudiante+Ingenieria+📚" alt="Typing SVG" />
   </h1>
 </div>
 
 <!-- Introduction -->
-<h3 align="center">Actualmente Estudiante De Cuarto Año De Ingenieria En Sistemas | Siempre Buscando Algo Nuevo Que Aprender🚀 </h3>
+<h3 align="center">Actualmente Estudiante De Cuarto Año De Ingenieria En Sistemas | Me encanta programar, resolver problemas y trabajar en proyectos individuales Y colaborativos. ¡Siempre aprendiendo algo nuevo! 🚀 </h3>
 <br>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="https://join.skype.com/invite/fOhnfwMA5dTc">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype" />
   </a>
-   <a href="https://wa.me/50235989374">
+   <a href="https://wa.me/50235989374" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
   <a href="https://TU_USUARIO.dev">
@@ -63,6 +63,7 @@
 <!-- Projects Section with Animations -->
 ## 🚀 Proyectos Destacados
 
+
 <div align="center">
   <a href="https://github.com/wilsoon77/FERRETERIA-FINAL-PROJECT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=FERRETERIA-FINAL-PROJECT&theme=radical" />
@@ -84,7 +85,7 @@
   <a href="https://join.skype.com/invite/fOhnfwMA5dTc">
     <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype" />
   </a>
-   <a href="https://wa.me/50235989374">
+   <a href="https://wa.me/50235989374" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
   <a href="https://TU_USUARIO.dev">
