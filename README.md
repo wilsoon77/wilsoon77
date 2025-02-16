@@ -4,52 +4,30 @@
   
   <!-- Animated Text - Simple but effective -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=¡Hola!+👋+Soy+%5BTu+Nombre%5D;Full+Stack+Developer;Creador+de+Soluciones" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=¡Hola!+👋+Soy+%5BWilson+Coc%5D;Desarrollador+WEB;Estudiante+Ingenieria." alt="Typing SVG" />
   </h1>
 </div>
 
 <!-- Introduction -->
-<h3 align="center">Transformando ideas en código | Creando el futuro digital</h3>
+<h3 align="center">Actualmente Estudiante De Cuarto Año De Ingenieria En Sistemas | Siempre Buscando Algo Nuevo Que Aprender🚀 </h3>
+<br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:wilsoncoc5678@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://join.skype.com/invite/fOhnfwMA5dTc">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype" />
+  </a>
+   <a href="https://wa.me/50235989374">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
   <a href="https://TU_USUARIO.dev">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<!-- About Me Section -->
-## 👨‍💻 Sobre mí
 
-```typescript
-const developer = {
-  nombre: "[Tu Nombre]",
-  rol: "Full Stack Developer",
-  ubicacion: "[Tu Ciudad, País]",
-  experiencia: "X años",
-  pasiones: ["Desarrollo Web", "Arquitectura de Software", "UI/UX", "Open Source"],
-  aprendiendo: ["Cloud Native", "DevOps", "Arquitectura Limpia"],
-  objetivos2024: [
-    "Contribuir a más proyectos open source",
-    "Especializarme en arquitecturas cloud",
-    "Compartir conocimiento a través de blog posts"
-  ]
-};
-```
-
-- 🔭 Actualmente trabajo en **[Proyecto Actual/Empresa]** desarrollando soluciones innovadoras
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías para crear mejores soluciones
-- 👯 Busco colaborar en proyectos que desafíen los límites de la tecnología
-- 💡 Me apasiona crear código limpio y escalable que resuelva problemas reales
-- 📝 Escribo regularmente artículos sobre desarrollo en [tu-blog.dev]
-- 💬 Pregúntame sobre **arquitectura de software, patrones de diseño y mejores prácticas**
-- 📫 Contáctame en **tu@email.com**
-- ⚡ Fun fact: [Algo interesante sobre ti, por ejemplo: "Toco la guitarra mientras debugeo"]
 <!-- Tech Stack Section -->
 ## 🛠️ Stack Tecnológico
 
@@ -80,63 +58,14 @@ const developer = {
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Main Skills -->
-<h3>Desarrollo Web</h3>
-<p>
-  <img src="https://img.shields.io/badge/Frontend-★★★★★-FF69B4?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/Backend-★★★★☆-4CAF50?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/DevOps-★★★☆☆-2196F3?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/UI/UX-★★★★☆-9C27B0?style=flat-square&labelColor=black" />
-</p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilsoon77&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsoon77&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoon77&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-  <!-- Wakatime Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsoon77_WAKATIME&theme=radical&hide_border=true" alt="Wakatime Stats" />
-</div>
-
-<!-- Weekly development breakdown -->
-<div align="center">
-  <img src="https://wakatime.com/share/@wilsoon77_WAKATIME/d6dcb7f2-c1d4-4292-a5e6-1634104f9df3.svg" height="400" alt="Weekly development breakdown" />
-</div>
-
-
-
-<!-- GitHub Stats with Animations -->
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wilsoon77&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilsoon77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsoon77&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilsoon77&theme=radical" alt="GitHub Streak" />
-</div>
-
-<!-- Coding Time Stats -->
-## ⏱️ Tiempo de Codificación
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wilsoon77&theme=radical" alt="Wakatime Stats" />
-</div>
 
 <!-- Projects Section with Animations -->
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/TU_USUARIO/proyecto1](https://github.com/wilsoon77/FERRETERIA-FINAL-PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=proyecto1&theme=radical" />
+  <a href="https://github.com/wilsoon77/FERRETERIA-FINAL-PROJECT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=FERRETERIA-FINAL-PROJECT&theme=radical" />
   </a>
   <a href="https://github.com/TU_USUARIO/proyecto2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto2&theme=radical" />
@@ -146,14 +75,17 @@ const developer = {
 
 
 <!-- Contact Section with Larger Badges -->
-## 📫 Conecta Conmigo
+## 📫 Contacta conmigo Conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:wilsoncoc5678@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://join.skype.com/invite/fOhnfwMA5dTc">
+    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype" />
+  </a>
+   <a href="https://wa.me/50235989374">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
   <a href="https://TU_USUARIO.dev">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
@@ -174,7 +106,7 @@ const developer = {
 
 <div align="center">
   
-  📝 `README.md` generado con ❤️ por [TU_USUARIO](https://github.com/TU_USUARIO)
+  📝 `README.md`  por [Wilsoon77](https://github.com/wilsoon77)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
