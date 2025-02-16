@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:wilsoncoc5678@gmail.com">
+  <a href="mailto:wilsoncoc5678@gmail.com" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://join.skype.com/invite/fOhnfwMA5dTc">
