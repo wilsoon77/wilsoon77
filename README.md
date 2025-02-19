@@ -72,9 +72,13 @@
   <a href="https://github.com/wilsoon77/FERRETERIA-FINAL-PROJECT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=FERRETERIA-FINAL-PROJECT&theme=radical" />
   </a>
-  <a href="https://github.com/TU_USUARIO/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto2&theme=radical" />
+  <a href="https://github.com/lester-yat/colegio-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lester-yat&repo=colegio-java&theme=radical" />
   </a>
+  <a href="https://github.com/wilsoon77/Ferreteria-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=Ferreteria-project&theme=radical" />
+  </a>
+  
 </div>
 
 
