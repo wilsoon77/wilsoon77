@@ -22,7 +22,7 @@
   <a href="https://wa.me/50235989374" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://TU_USUARIO.dev">
+  <a href="https://portafoliowilson-c.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" height="40" />
   </a>
 </p>
@@ -92,7 +92,7 @@
    <a href="https://wa.me/50235989374" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
-  <a href="https://TU_USUARIO.dev">
+  <a href="https://portafoliowilson-c.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
