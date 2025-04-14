@@ -77,6 +77,9 @@
   <a href="https://github.com/wilsoon77/Ferreteria-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=Ferreteria-project&theme=radical" />
   </a>
+  <a href="https://github.com/wilsoon77/GestorTareas.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilsoon77&repo=GestorTareas&theme=radical" />
+  </a>
   
 </div>
 
