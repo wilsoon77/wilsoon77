@@ -9,7 +9,7 @@
 </div>
 
 <!-- Introduction -->
-<h3 align="">Actualmente Estudiante De Cuarto Año De Ingenieria En Sistemas De la Universidad Mariano Gálvez de Guatemala  👾 | Me gusta programar y trabajar en proyectos individuales Y colaborativos. ¡Siempre buscando aprender algo nuevo para aprender! 🚀 </h3>
+<h3 align="">Actualmente Estudiante De Quinto Año (noveno semestre) De Ingenieria En Sistemas De la Universidad Mariano Gálvez de Guatemala  👾 | Me gusta programar y trabajar en proyectos individuales Y colaborativos. ¡Siempre buscando aprender algo nuevo para aprender! 🚀 </h3>
 <br>
 
 <p align="center">
