@@ -16,8 +16,8 @@
   <a href="mailto:wilsoncoc5678@gmail.com" onclick="window.open(this.href, '_blank'); return false;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://join.skype.com/invite/fOhnfwMA5dTc">
-    <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype" height="40" style="margin-right: 15px;" />
+  <a href="https://www.linkedin.com/in/wilson-coc-1415a1297/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="margin-right: 15px;" />
   </a>
   <a href="https://wa.me/50235989374" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" height="40" style="margin-right: 15px;" />
